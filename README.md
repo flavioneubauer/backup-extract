@@ -28,8 +28,8 @@ adb backup -f backup.ab it.murah.cx.app.farmacia
 
 ------------------------
 
-2. Extrair os dados
-com o arquivo backup.ab em mãos:
+2. Extrair os dados com o arquivo backup.ab em mãos:
+
 2.1. Instalar python 
 ```bash
 sudo apt install python
